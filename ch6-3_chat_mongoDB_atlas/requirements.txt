@@ -1,4 +1,6 @@
-flask 
-Flask-SocketIO 
-eventlet 
+flask
+Flask-SocketIO
+eventlet
 greenlet
+pymongo
+python-dotenv
